@@ -7,4 +7,4 @@ cd Visualization
 pip install pandas numpy matplotlib seaborn streamlit
 
 
-steamlit run app.py
+streamlit run app.py
